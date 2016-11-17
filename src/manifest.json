@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "PassGen",
+  "name": "Password Generator",
   "description": "This extension Creates passwords and fills them in the input forms.",
-  "version": "0.1",
+  "version": "1.0",
 
   "background": {
     "scripts": [
